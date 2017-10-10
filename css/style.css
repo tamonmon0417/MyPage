@@ -30,13 +30,13 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color: #7E5090;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: #7E5090;
   outline: none;
   text-decoration: none;
 }
@@ -54,17 +54,17 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #7E5090;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #7E5090;
 }
 
 ::selection {
   color: #fff;
-  background: #52d3aa;
+  background: #7E5090;
 }
 
 #fh5co-wrap {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 #fh5co-footer a:hover {
-  color: #52d3aa;
+  color: #7E5090;
 }
 #fh5co-footer ul {
   padding: 0;
@@ -188,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-table-cell,
 .fh5co-hero,
 .fh5co-parallax {
-  height: 500px;
+  height: 670px;
 }
 
 .fh5co-hero, .fh5co-parallax {
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 5px;
 }
 .fh5co-feature .fh5co-icon i {
-  color: #52d3aa;
+  color: #7E5090;
   font-size: 70px;
 }
 @media screen and (max-width: 1200px) {
@@ -275,7 +275,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
-  color: #52d3aa;
+  color: #7E5090;
   font-size: 28px;
 }
 @media screen and (max-width: 1200px) {
@@ -357,9 +357,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background: #52d3aa;
+  background: #7E5090;
   color: #fff;
-  border: 2px solid #52d3aa;
+  border: 2px solid #7E5090;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
@@ -367,11 +367,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #52d3aa;
-  border: 2px solid #52d3aa;
+  color: #7E5090;
+  border: 2px solid #7E5090;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #52d3aa;
+  background: #7E5090;
   color: #fff;
 }
 
@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5, h6 {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #52d3aa;
+  border-color: #7E5090;
 }
 
 .fh5co-check {
@@ -509,7 +509,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: .3em;
   content: "\f00c";
-  color: #52d3aa;
+  color: #7E5090;
 }
 
 .fh5co-staff img {
